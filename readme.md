@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [github.com/ishaanbedi](github.com/ishaanbedi)
+- 👨‍💻 All of my projects are available at (github.com/ishaanbedi)
 
 - 📫 How to reach me **ishaanbedi@outlook.in**
 

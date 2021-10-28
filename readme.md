@@ -6,15 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/theishaanbedi" target="blank"><img src="https://img.shields.io/twitter/follow/theishaanbedi?logo=twitter&style=for-the-badge" alt="theishaanbedi" /></a> </p>
 
-- 🔭 I’m currently working on [BitLive](https://github.com/ishaanbedi/ishaanbedi.github.io/tree/main/bitlive)
 
-- 🌱 I’m currently learning **Node JS**
-
-- 👨‍💻 All of my projects are available at (github.com/ishaanbedi)
-
-- 📫 How to reach me **ishaanbedi@outlook.in**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ishannbedi/](https://www.linkedin.com/in/ishannbedi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

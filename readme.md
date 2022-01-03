@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaan Bedi</h1>
-<h3 align="center">A student developer from New Delhi, India</h3>
+<h3 align="center">I am a 18 year old developer from New Delhi, India 🇮🇳</h3>
 
 - 📫 Website **https://www.ishaanbedi.me/**
 

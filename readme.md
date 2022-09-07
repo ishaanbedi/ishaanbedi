@@ -1,5 +1,5 @@
-# 💫 Hi, I am Ishaan:
-I write code in Swift for the Apple Ecosystem, and in Javascript for the web.
+# 💫 Hi, I am Ishaan.
+I am a developer from Delhi, India. I write code in Swift for the Apple Ecosystem, and in Javascript for the web.
 
 
 ## 🌐 Socials:

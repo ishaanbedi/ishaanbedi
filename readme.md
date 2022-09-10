@@ -1,9 +1,5 @@
-# 💫 Hi, I am Ishaan.
-I am a developer from Delhi, India. I write code in Swift for the Apple Ecosystem, and in Javascript for the web.
+![Image could not be loaded](https://kcldtzblfykiwwltfouv.supabase.co/storage/v1/object/sign/meta/ishaanbedi.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJtZXRhL2lzaGFhbmJlZGkucG5nIiwiaWF0IjoxNjYyNzg4NTA3LCJleHAiOjE5NzgxNDg1MDd9.43wDRTLh_5TR24DQmeTCnSs05Wo4h0m_9HAbpGNNzD4&t=2022-09-10T05%3A41%3A47.311Z "")
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaanbedi13) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ishaanbedi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ishnbedi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ishaanbedi) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ishaanbedi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishaanbedi&theme=dracula&hide_border=false)<br/>
@@ -11,6 +7,3 @@ I am a developer from Delhi, India. I write code in Swift for the Apple Ecosyste
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ishaanbedi&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ishaanbedi&icon=0&color=0)](https://visitcount.itsvg.in)

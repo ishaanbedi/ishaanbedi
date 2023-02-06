@@ -9,5 +9,5 @@ My name is Ishaan Bedi
 
 #### Connect with me:
  - [Twitter](https://www.github.com/ishaanbedi)
- - [Linkedin](https://www.linkedin.com/in/ishaanbedi)
+ - [Linkedin](https://www.linkedin.com/in/ishaanbedi13)
  - [Portfolio Website](https://www.ishaanbedi.in)

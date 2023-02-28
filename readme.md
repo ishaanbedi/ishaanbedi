@@ -6,4 +6,4 @@
 #### Connect with me:
  - [Twitter/ishnbedi](https://www.github.com/ishaanbedi)
  - [Linkedin/ishaanbedi13](https://www.linkedin.com/in/ishaanbedi13)
- - [wwww.ishaanbedi.in](https://www.ishaanbedi.in)
+ - [ishaanbedi.in](https://www.ishaanbedi.in)

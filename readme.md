@@ -2,6 +2,5 @@
 
 #### Connect with me:
  - [Twitter/ishnbedi](https://www.twitter.com/ishnbedi)
- - [Linkedin/ishaanbedi13](https://www.linkedin.com/in/ishaanbedi13)
  - [ishaanbedi.in](https://www.ishaanbedi.in)
-- [hi@ishaanbedi.in](mailto:hi@ishaanbedi.in)
+ - [hi@ishaanbedi.in](mailto:hi@ishaanbedi.in)
